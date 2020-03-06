@@ -1,0 +1,46 @@
+.body {
+  background-color: darkred;
+}
+.container {
+  background-color: darkred;
+  position: relative;
+  top: 50px;
+  
+}
+.content{
+  margin-top: 10px;
+  margin-bottom: 10px;
+  background-color: gray;
+  padding: 20px;
+  width: 100%;
+}
+
+.boxheader {
+  text-align: center;
+}
+#display{
+  background-color: silver;
+  width: 100%;
+}
+
+#userlength{
+  background-color: silver;
+  width: 50px;
+}
+
+#Length{
+  display: inline-block;
+  width: 100px;
+}
+
+.length {
+  padding-top: 10px;
+  font-weight: bold;
+}
+
+.display {
+  position: relative;
+  bottom: 20px;
+  align-content: center;
+  text-align:center;
+}
